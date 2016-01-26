@@ -7,6 +7,8 @@
     <groupId>com.artbeatte</groupId>
     <artifactId>testrunner</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>testrunner</name>
+    <packaging>jar</packaging>
 
     <build>
         <plugins>
